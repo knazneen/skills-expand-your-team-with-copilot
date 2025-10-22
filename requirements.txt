@@ -1,0 +1,10 @@
+# Requirements for GPT SSM Model with Ollama
+# This project primarily uses Ollama CLI which needs to be installed separately
+# Visit https://ollama.ai for installation instructions
+
+# No Python package dependencies required for basic functionality
+# The implementation uses only Python standard library modules
+
+# Optional dependencies for enhanced functionality:
+# requests>=2.31.0  # For API-based interactions (if needed in future)
+# numpy>=1.24.0     # For numerical computations (if needed in future)
